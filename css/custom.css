@@ -1,0 +1,18 @@
+body {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  /* Header-Farbe überschreiben */
+  header.w3-container {
+    background-color: #ccc !important;
+  }
+  
+  /* Navigation gleichmäßig verteilen */
+  nav.w3-bar a {
+    flex: 1;
+    text-align: center;
+  }
+  nav.w3-bar {
+    display: flex;
+  }
+  
