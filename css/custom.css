@@ -1,18 +1,9 @@
 body {
-    font-family: 'Poppins', sans-serif;
+    background-color: #e9e5e5;
   }
-  
-  /* Header-Farbe überschreiben */
-  header.w3-container {
-    background-color: #ccc !important;
-  }
-  
-  /* Navigation gleichmäßig verteilen */
-  nav.w3-bar a {
-    flex: 1;
-    text-align: center;
-  }
-  nav.w3-bar {
-    display: flex;
-  }
-  
+
+  <div class="w3-bar w3-black">
+  <a href="#e9e5e5 class="w3-bar-item w3-button w3-mobile">London</a>
+  <a href="#e9e5e5 class="w3-bar-item w3-button w3-mobile">Paris</a>
+  <a href="#e9e5e5 class="w3-bar-item w3-button w3-mobile">Tokyo</a>
+</div>
